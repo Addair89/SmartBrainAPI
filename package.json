@@ -1,10 +1,12 @@
 {
   "name": "node",
+  "homepage": "https://Addair89.github.SmartBrainAPI",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
